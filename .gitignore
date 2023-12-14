@@ -1,0 +1,26 @@
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional: Mac files
+._*
+
+# Optional: Yarn Integrity file
+.yarn-integrity
